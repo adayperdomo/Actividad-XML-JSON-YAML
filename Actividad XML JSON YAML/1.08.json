@@ -1,0 +1,63 @@
+{
+    "informacion": {
+        "producto":{
+                "categoria": "Ordenador sobremesa",
+                
+                "marca": "Deep Gaming",
+                
+                "modelo": "Venom",
+                
+                "color": "Negro",
+                
+                "procesador": "Intel Core i9-11900F",
+                
+                "memoria": "32 GB",
+                
+                "almacenamiento": "2 TB HDD + 500 GB SSD",
+                
+                "grafica": "NVIDIA RTX 3050",
+                
+                "sistema": "SIN SISTEMA OPERATIVO"
+        },
+
+        "producto2":{
+                "categoria": "Ordenador sobremesa",
+                
+                "marca": "Ryzen ",
+                
+                "modelo": "PcVIP Rx3dsuprem",
+                
+                "color": "Blanco",
+                
+                "procesador": "AMD Ryzen 7 7800X3D",
+                
+                "memoria": "32 GB",
+                
+                "almacenamiento": "2 TB HDD + 500 GB SSD",
+                
+                "grafica": "RADEON RX 7900 XT",
+                
+                "sistema": "Windows 11 Pro 64Bits"
+        },
+
+        "producto3":{
+                "categoria": "Portatil",
+                
+                "marca": "Acer",
+                
+                "modelo": "Acer Gaming Predator Triton Neo",
+                
+                "color": "Plateado",
+                
+                "procesador": "Intel® Core™ Ultra 7 processor 155H 4.80 GHz",
+                
+                "memoria": "32 GB",
+                
+                "almacenamiento": "512GB",
+                
+                "grafica": "NVIDIA® GeForce RTX™ 4060",
+                
+                "sistema": "SIN SISTEMA OPERATIVO"
+        }
+    }
+}

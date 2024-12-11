@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<informacion>
+    <producto>
+        <categoria>Portátil</categoria>
+        <marca>Acer</marca>
+        <modelo>Nitro 5 AN515-45</modelo>
+        <color>Negro</color>
+        <procesador>AMD Ryzen™ 9 5900HX 3.3 GHz</procesador>
+        <memoria>32 GB DDR4 2100MHz Memory</memoria>
+        <almacenamiento>1TB SSD PCIe NVMe</almacenamiento>
+        <grafica>NVIDIA® GeForce RTX™ 3080 8G-GDDR6 (2C*256*16*8)</grafica>
+        <sistema>SIN SISTEMA OPERATIVO</sistema>
+    </producto>
+
+    <producto2>
+        <categoria>Portátil</categoria>
+        <marca>HP</marca>
+        <modelo>Victus 16-r1001ns</modelo>
+        <color>Azul</color>
+        <procesador>Intel® Core™ de 14.ª generación</procesador>
+        <memoria>32 GB RAM</memoria>
+        <almacenamiento> 1 TB</almacenamiento>
+        <grafica>GeForce RTX 4060</grafica>
+        <sistema>SIN SISTEMA OPERATIVO</sistema>
+    </producto2>
+
+    <producto3>
+        <categoria>Ordenador sobremesa</categoria>
+        <marca>Ryzen</marca>
+        <modelo>Epical-Q HRYM</modelo>
+        <color>Blanco</color>
+        <procesador>AMD Ryzen 7 5700X</procesador>
+        <memoria>32 GB</memoria>
+        <almacenamiento>1TB</almacenamiento>
+        <grafica>NVIDIA RTX 4070Super 12 GB Dual ASUS</grafica>
+        <sistema>Windows 11 Home</sistema>
+    </producto3>
+</informacion>

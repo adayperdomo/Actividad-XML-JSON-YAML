@@ -1,0 +1,33 @@
+informacion:
+  producto:
+    categoria: Portátil
+    marca: HP
+    modelo: OMEN Transcend 14-fb0007ns
+    color: Negro
+    procesador:  Intel Core Ultra 9
+    memoria: 32GB
+    almacenamiento: 1 TB SSD
+    grafica: GeForce RTX 4060
+    sistema: SIN SISTEMA OPERATIVO
+
+  producto2:
+    categoria: Ordenador sobremesa
+    marca: Acer
+    modelo: Acer Nitro N50 N50-650 
+    color: Negro
+    procesador: Intel Core i5-13400F 
+    memoria: 16 GB
+    almacenamiento: 1 TB SSD
+    grafica: NVIDIA GeForce RTX 4060 8GB
+    sistema: SIN SISTEMA OPERATIVO
+
+  producto3:
+    categoria: Portátil
+    marca: PcCom
+    modelo: Legend 4070
+    color: Negro
+    procesador: Intel Core i9
+    memoria: 32GB
+    almacenamiento: 1 TB SSD
+    grafica: RTX 4070
+    sistema: SIN SISTEMA OPERATIVO
